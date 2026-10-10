@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Reshu!
 
-<!--
-**reshu25033/reshu25033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Undergraduate Student  
+💻 Aspiring Software Developer  
+🐍 Learning Python | C | HTML | CSS
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🎯 Building my programming skills
+- 🚀 Creating beginner-friendly projects
+- 📚 Learning something new every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- C
+- HTML & CSS
+- Git & GitHub
+
+## 📌 Goals
+- Build real-world projects
+- Contribute to open source
+- Secure a software development internship
+
+## 🤝 Connect With Me
+- GitHub: [@reshu25033](https://github.com/reshu25033)
+
+✨ Thanks for visiting my profile!
